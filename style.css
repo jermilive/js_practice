@@ -1,4 +1,4 @@
-* {
+*::first-letter {
   text-transform: capitalize;
 }
 
@@ -29,5 +29,9 @@ body {
 }
 
 .date {
+  text-align: center;
+}
+
+.content {
   text-align: center;
 }
